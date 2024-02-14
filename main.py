@@ -42,7 +42,6 @@ def chamar(bit):
 
 
 while True:
-    print('Fala ai karai\n')
     frase = chamar(0)
     if frase == 'cortana' or frase == 'Cortana':
         audio('Oi')
